@@ -84,6 +84,7 @@ public class Car {
 	
 	public static void main(String[] args) {
 
+		//testing
 		Car myCar =  new Car();
 		myCar.getOut();
 		myCar.getOut();
