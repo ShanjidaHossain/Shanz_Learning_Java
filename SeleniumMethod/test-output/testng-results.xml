@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-09T21:15:45 EDT" name="Default suite" finished-at="2022-05-09T21:15:59 EDT" duration-ms="14234">
+    <groups>
+    </groups>
+    <test started-at="2022-05-09T21:15:45 EDT" name="Default test" finished-at="2022-05-09T21:15:59 EDT" duration-ms="14234">
+      <class name="com.selenium.method.testing.C02_use_of_isEnabled_method">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.selenium.method.testing.C02_use_of_isEnabled_method@58d75e99]" started-at="2022-05-09T21:15:45 EDT" name="setUp" finished-at="2022-05-09T21:15:59 EDT" duration-ms="13725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginButtonTest()[pri:1, instance:com.selenium.method.testing.C02_use_of_isEnabled_method@58d75e99]" started-at="2022-05-09T21:15:59 EDT" name="loginButtonTest" finished-at="2022-05-09T21:15:59 EDT" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonTest -->
+        <test-method signature="newUserRegistrationTest()[pri:2, instance:com.selenium.method.testing.C02_use_of_isEnabled_method@58d75e99]" started-at="2022-05-09T21:15:59 EDT" name="newUserRegistrationTest" finished-at="2022-05-09T21:15:59 EDT" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserRegistrationTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.selenium.method.testing.C02_use_of_isEnabled_method@58d75e99]" started-at="2022-05-09T21:15:59 EDT" name="tearUp" finished-at="2022-05-09T21:15:59 EDT" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- com.selenium.method.testing.C02_use_of_isEnabled_method -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

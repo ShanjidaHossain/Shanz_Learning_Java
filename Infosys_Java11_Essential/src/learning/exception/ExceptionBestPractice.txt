@@ -1,0 +1,11 @@
+Every application developed in any language will always have one thing in common, that is a way to handle the various exceptions that are thrown during the execution. And just like any other concept in Java, there are certain rules/practices that every developer should follow while handling exceptions to get the best results and performance from the application.
+
+The following are the best practices that will vastly improve the reliability, readability, and maintainability of any application by many folds. 
+
+Throw specific Exceptions rather than generic ones
+Proper usage of finally block
+Use the catch block only if an exception is supposed to be handled
+Give proper exception message when throwing an exception
+Include the cause of exception when rethrowing an exception
+NullPointerException should never be caught
+Let us discuss each best practice in detail.

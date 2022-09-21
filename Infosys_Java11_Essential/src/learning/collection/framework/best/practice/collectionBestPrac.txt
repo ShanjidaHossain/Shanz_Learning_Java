@@ -1,0 +1,12 @@
+Collections framework provides developers with a way to store, manipulate, and access related data in Java applications. It provides developers with means to manipulate data like sorting, searching, and insertion. And just like any other concept, the usage of collections also come with their own best practices and rules, which will be discussed in this module. 
+
+Here are a few best practices to be followed while using Collections.
+
+Choose the right collection
+The interface type should be used as a reference type
+Generics and diamond<> operator should be used
+Iterating using a for-each loop or forEach function
+Use of isEmpty() over size() method
+Implement Comparable interface fro comparing objects
+Overriding equals() and hashcode() methods
+The above best practices are followed while implementing Collection are discussed further in detail.

@@ -1,0 +1,25 @@
+Framework -  to store and manipulate the group of objects
+Operations: Searching, Inserting, Manipulating, Deletion, Sorting
+
+Interface:
+	Set
+	List
+	Queue
+	Deque
+	
+Classes:
+	ArrayList
+	Vector
+	LinkedList
+	HashSet
+	TreeSet
+	PriorityQueue
+	
+	
+Java.util.package: 
+	
+									Iterable(Interface)
+									
+									Collection(Interface)
+										
+							List(Interface)						Queue(Interface) 					Set(Interface)
